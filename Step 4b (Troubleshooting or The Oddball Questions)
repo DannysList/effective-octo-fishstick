@@ -1,0 +1,7 @@
+This is only if you have an issue with something above.
+
+If your usb isn't working properly try another usb, also make sure to follow the check boxes correctly as it can matter if it boots or not. 
+
+If you think your hard drive is acting up, unzip CrystalDiskInfo, it will tell you if the HD is in good shape or if it needs to be replaced. Alot of things can be replaced with a good reformat.
+
+If your pc already has win10 on it and you don't feel like reformating everything but you don't know the password? No problem! Get to the Sign in Screen and WHILE holding SHIFT click on "restart computer" Keep holding shift and the pc will boot up into Windows 10 Recovery. Follow the instructions there and you can "refresh" the OS without having to reinstall everything. I really only do this if I have a number of pcs to do and I need to just get them done! Once they are refreshed, I still run the scripts to remove Defender and apps, etc.
