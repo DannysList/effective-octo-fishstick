@@ -1,0 +1,12 @@
+*****QUICK NOTE ABOUT WINDOWS 7 INSTALL ON A SATA DRIVE*****
+
+You can install Windows 7 on a SATA Drive but it is sometimes a giant pain in the ass. Win7 gets really picky with SATA I've found. Anyways if you want to use a Sata Drive (honestly as long as CrystalDiskInfo reads the drive as being healthly I just reuse the original)  ANYWAYS! You will have to use some googling skills and find these files
+
+STOR_all32_f6flpy_9.6.0.1014_PV.zip - F6 driver diskette for Windows* 7 (32-bit editions), Windows* Vista* (32-bit editions), Windows XP* Home, Windows XP Professional or Windows XP Media Center Edition.
+
+STOR_all64_f6flpy_9.6.0.1014_PV.zip - F6 driver diskette for Windows 7 (64-bit editions), Windows Vista (64-bit editions) or Windows XP Professional 64-bit Edition.
+
+Unzip them and put them on one of your USB thumb drives. Once you get to the part in the Win7 installation where you see where you HD would be, click on "load driver" and select one of the files from your thumb drive. It SHOULD (key word) work! 
+
+*****NOTE ENDED*****
+
